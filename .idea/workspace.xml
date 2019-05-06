@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f9d8af6-178f-4eec-bb62-ae4e6e5b901f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BT_Validate email/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate email/Validete_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_SoDienThoai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_SoDienThoai/Validate_SoDienThoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_account/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_account/Validate_account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_ten_cua_lop_hoc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Validate_ten_cua_lop_hoc/Validate_TenCuaLopHoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GioHang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GioHang/LamGioHang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/bai_tap_tu_dien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/bai_tap_tu_dien/bài tập làm từ điển.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_1/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_1/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_1/bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_1/bài 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_1/bài 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_1/bài 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_1/bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_2/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/luyen_tap_mang_2/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/su_dung_cac_ham_co_san/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/su_dung_cac_ham_co_san/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/su_dung_cac_ham_co_san/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/su_dung_cac_ham_co_san/bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_dao_nguoc_cac_phan_tu_trong_mang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_dao_nguoc_cac_phan_tu_trong_mang/thực hành đảo ngược các phần tử trong mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_tao_ban_co_caro_don_gian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_tao_ban_co_caro_don_gian/thực hành tạo bàn cờ caro đơn giản.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_tao_va_thao_tac_voi_mang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_tao_va_thao_tac_voi_mang/thực hành: Tạo và thao tác với mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_tim_gia_lon_nhat_trong_mang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_tim_gia_lon_nhat_trong_mang/thực hành tìm giá trị lớn nhất trong mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/thuc_hanh_tim_gia_tri_trong_mang/thực hành tìm giá trị trong mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/HinhTronDonGian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/HinhTronVoiBanKinhNgauNhien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/HinhTronVoiMauNgauNhien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/HinhTronVoiViTriNgauNhien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/TaoNhieuHinhTron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_FunnyCircles/Ve2HinhTron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_GameDonGian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_GameDonGian/GameDonGian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_KiemTraMaQuocGiaNuocMy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_KiemTraMaQuocGiaNuocMy/Ham_usZipCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_KiemTraMaQuocGiaNuocMy/KiemTraMaQuocGiaNuocMy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_LopMoPhongHoatDongCuaDenPin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_LopMoPhongHoatDongCuaDenPin/XayDungLopMoPhongSuHoatDongDenPin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_XayDungLopDate/XayDungLopDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_XayDungLopHinhTron/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_XayDungLopHinhTron/TH_XayDungLopHinhTron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adam_eva/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adam_eva/adam_eva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap_diem_va_xep_loai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap_diem_va_xep_loai/bài tập phân loại học viên.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cac_bai_tap_cua_phan_nhap_mon/bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dieu_kien/cau_truc_cau_dieu_kien_luyen_tap_2/bài 10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dieu_kien/cau_truc_cau_dieu_kien_luyen_tap_2/bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dieu_kien/cau_truc_cau_dieu_kien_luyen_tap_2/bài 9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dieu_kien/cau_truc_cau_dieu_kien_luyen_tap_2/bài tập dùng checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../den_pin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../den_pin/lamdenPin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/1 vẽ hình tròn canvas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/10 quản lí trạng thái của các viên gạch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/11 xử lý va chạm vào các viên gạch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/2 cải thiện hiệu ứng và chuyển động.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/3 xử  lý bóng va chạm và tạo đường biên.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/4 cải thiện quả bóng va chạm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/5 xử lý sự kiện từ bàn phím.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/6 vẽ và xử lý chuyển động của thanh chắn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/7 xữ lý chuyển động trên canvas mượt hơn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/8 xử lý va chạm giữa bóng với thanh chắn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/9 vẽ các viên gạch lên canvas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/game 2D.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/game đập gạch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game_2D/tính năng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_chuyen_doi_giua_feet_va_meters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_chuyen_doi_giua_feet_va_meters/bài tập chuyển đổi giữa feet và meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_ham_kiem_tra_so_nguyen_to/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_ham_kiem_tra_so_nguyen_to/kiểm tra số nguyên tố.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_1/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_1/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_1/bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_1/bài 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_1/bài 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/bai_tap_luyen_tap_va_su_dung_ham_2/bài 9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/thuc_hanh_chuyen_doi_nhiet_do/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/thuc_hanh_chuyen_doi_nhiet_do/thực hành chuyển đổi nhiệt độ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/thuc_hanh_tao_va_goi_ham/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/thuc_hanh_tao_va_goi_ham/thực hành tạo và gọi hàm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/thuc_hanh_tim_gia_tri_nho_nhat_cua_mang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham/thuc_hanh_tim_gia_tri_nho_nhat_cua_mang/thực hành tìm giá trị nhỏ nhất của mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/câu 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/câu 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/câu 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/câu 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/bai_doc/bài đọc căn bản về đối tượng trong Javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/bai_tap_xay_dung_lop_mo_ta_hinh_chu_nhat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/bai_tap_xay_dung_lop_mo_ta_hinh_chu_nhat/bài tập xây dựng lớp mô tả hình chữ nhật.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/khai_niem_ve_doi_tuong_lap_trinh/khái niệm về đối tượng lập trình.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc-hanh_xay_dung_lop_hinh_tron/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc-hanh_xay_dung_lop_hinh_tron/thực hành xây dựng lớp hình tròn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_funny_circles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_funny_circles/bước 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_funny_circles/bước 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_funny_circles/bước 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_funny_circles/bước 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_funny_circles/bước 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_funny_circles/bước 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_funny_circles/bước 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_xay_dung_lop_date/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lap_trinh_doi_tuong_1/thuc_hanh_xay_dung_lop_date/thực hành xây dựng lớp Date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/baitinhdiem trungbinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/chuyendoinhietdo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/chuyendoitiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/tinhchuvihinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../làm lại/tinhdientichhinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/thu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/timgiatribattrongmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/bai_tap_bang_cuu_chuong/bảng cửu chương.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/bai_tap_hien_thi_cac_so_nguyen_to_dau_tien/nhập vào bao nhiêu số thì in ra bấy nhiêu số nguyên tố.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/bai_tap_hien_thi_cac_so_nguyen_to_dau_tien/tìm các số nguyên tố.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_1/bài 9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_2/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_2/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/luyen_tap_vong_lap_2/bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/thuc_hanh_su_dung_vong_lap_do_while/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/thuc_hanh_su_dung_vong_lap_long_nhau/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/thuc_hanh_su_dung_vong_lap_long_nhau/bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vong_lap/thuc_hanh_su_dung_vong_lap_while/bài 2.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/câu 3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/câu 1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/câu 4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="37" column="67" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/câu 2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/câu 3.html" />
+        <option value="$PROJECT_DIR$/câu 1.html" />
+        <option value="$PROJECT_DIR$/câu 4.html" />
+        <option value="$PROJECT_DIR$/câu 2.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kiem_tra_cuoi_module" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kiem_tra_cuoi_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f9d8af6-178f-4eec-bb62-ae4e6e5b901f" name="Default Changelist" comment="" />
+      <created>1557110523159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557110523159</updated>
+      <workItem from="1557110524515" duration="3078000" />
+      <workItem from="1557113831726" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4562000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="708" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/câu 3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/câu 4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="37" column="67" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/câu 1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/câu 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

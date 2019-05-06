@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Viết hàm isPrime</title>
+</head>
+<body>
+<script>
+    let number = parseFloat(prompt("Bạn muốn kiểm tra bao nhiêu số"));
+    let count = 0;
+
+    for (let i = 2; count < number; i++){
+        if (checkPrime(i)){
+            document.write(i + ": Là số nguyên tố " + '<br/>');
+            count++;
+        }
+    }
+
+    function checkPrime(Prime) {
+        let falg = true;
+        if (Prime < 2) {
+            falg = false;
+        }else {
+            for (let i = 2; i < Prime; i++){
+                if (Prime % i === 0){
+                    falg = false;
+                }
+            }
+        }
+        return falg;
+    }
+
+</script>
+</body>
+</html>

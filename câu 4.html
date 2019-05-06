@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Viết chương trình để biểu diễn hình chữ nhật</title>
+</head>
+<body>
+<canvas id="myCanvas" height="500" width="500" style=" border: 1px solid darkorange"></canvas>
+<script>
+    function Rectangle(width, height) {
+        this.width = width;
+        this.height = height;
+        // tính chu vi hình chữ nhật
+        this.perimeterRectangle = function () {
+            return 2 * (width + height);
+        };
+        // tính diện tích hình chữ nhật
+        this.areaRectangle = function () {
+            return width * height;
+        };
+        // tạo hình chữ nhật
+        this.createRectangle = function () {
+            let ctx = document.getElementById("myCanvas").getContext('2d');
+            let x = Math.floor((Math.random() * 300) + 1);
+            let y = Math.floor((Math.random() * 300) + 1);
+            ctx.beginPath();
+            ctx.fillRect(x, y, width, height);
+            ctx.fillStyle = "blue";
+            ctx.fill();
+        };
+    }
+
+    let a = Math.random() * window.innerWidth;
+    let b = Math.random() * window.innerHeight;
+    let rec = new Rectangle(a, b);
+    rec.createRectangle();
+    alert("Width is: " + a + " and Height is:  " + b + " so Perimeter of Rectangle is: " + rec.perimeterRectangle() +
+        " and Area of Rectangle " + " is: " + rec.areaRectangle());
+</script>
+</body>
+</html>
